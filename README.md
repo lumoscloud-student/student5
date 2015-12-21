@@ -7,5 +7,6 @@ Add a few lines.
 
 Then Save and do not close the file.
 
+this is my first time to use git and subline
 
 SUMMARY CHANGES ADDED
