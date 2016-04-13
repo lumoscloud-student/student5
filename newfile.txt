@@ -4,3 +4,4 @@ This is the newfile text.
 Some bad Words
 Some Words
 Some Words
+Some Words
